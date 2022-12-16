@@ -1,0 +1,3 @@
+add some text to it!
+
+Add a commit message with -m "The message"
